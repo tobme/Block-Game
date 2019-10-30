@@ -1,4 +1,4 @@
-# Discord Music Bot
+# Block Game
 
 ## Table of Contents
 
