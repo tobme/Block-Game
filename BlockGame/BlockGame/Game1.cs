@@ -20,7 +20,7 @@ namespace BlockGame
         SpriteBatch spriteBatch;
         public List<Objects> ObjectList = new List<Objects>();
         public bool GameON = false;
-        public int CurrentLvl = 4;
+        public int CurrentLvl = 1;
         SpriteFont VictoryText;
         Vector2 FontPos;
         GameState gameState = new GameState();
