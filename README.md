@@ -13,7 +13,7 @@
 ## About the project
 
 A strategy game about Peors journey to Lump. In the game you get to place and point arrows and much more to dictate where Peor is going.
-Your goal is to get one of the characters to the buss so they can travel to the next level.
+Your goal is to get one of the characters to the bus so they can travel to the next level, closer to Lump.
 ![](ezgif.com-video-to-gif.gif)
 
 ## Game Instructions
